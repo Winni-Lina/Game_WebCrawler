@@ -185,7 +185,7 @@ class OpenCriticFullFetcher:
 #  실행                                                               #
 # ------------------------------------------------------------------ #
 if __name__ == "__main__":
-    MY_KEY = "555f314bd9msh275fcffd2541321p1fbe1ejsnf641737ae8b8"
+    MY_KEY = ""
 
     fetcher = OpenCriticFullFetcher(MY_KEY)
     fetcher.run()
